@@ -19,7 +19,7 @@ import {
 const KopiSenjaDemo = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const waNumber = "6281234567890"; // Ganti dengan nomor WA Toko Kopi
+  const waNumber = "#"; // Ganti dengan nomor WA Toko Kopi
 
   const menuItems = [
     {
