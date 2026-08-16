@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
 
-  const igDmUrl = "https://ig.me/m/mkhmmdkhsnllh.dev";
+  const igDmUrl = "https://wa.me/082321041561";
 
   const navLinks = [
     { name: "Beranda", path: "/" },
