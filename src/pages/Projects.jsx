@@ -1,7 +1,7 @@
 import { ExternalLink, MessageCircle } from "lucide-react";
 
 const Projects = () => {
-  const igDmUrl = "https://ig.me/m/mkhmmdkhsnllh.dev";
+  const igDmUrl = "https://wa.me/6282321041561";
 
   const projects = [
     {
