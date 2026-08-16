@@ -50,7 +50,7 @@ const Home = () => {
               className="bg-primary hover:text-white text-blue-700 px-6 sm:px-8 py-3.5 sm:py-4 rounded-full font-semibold text-base sm:text-lg hover:bg-blue-700 transition-all flex items-center justify-center gap-2 shadow-lg shadow-primary/25 active:scale-95"
             >
               <MessageCircle className="w-5 h-5" />
-              <span>Konsultasi Gratis di IG</span>
+              <span>Konsultasi Gratis Sekarang</span>
             </a>
 
             {/* View Projects Link */}
