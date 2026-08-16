@@ -8,7 +8,7 @@ import {
 import { Link } from "react-router-dom";
 
 const Home = () => {
-  const igDmUrl = "https://ig.me/m/mkhmmdkhsnllh.dev";
+  const igDmUrl = "https://wa.me/6282321041561";
 
   return (
     <div className="w-full">
