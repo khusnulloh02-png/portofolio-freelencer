@@ -108,7 +108,7 @@ const Projects = () => {
           rel="noopener noreferrer"
           className="bg-white text-primary text-blue-700 hover:bg-blue-50 px-6 py-3.5 rounded-full font-bold text-base transition-all flex items-center gap-2 whitespace-nowrap shadow-md active:scale-95"
         >
-          <MessageCircle className="w-5 h-5" /> Chat via Instagram
+          <MessageCircle className="w-5 h-5" /> Chat Sekarang
         </a>
       </div>
     </div>
